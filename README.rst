@@ -1,9 +1,10 @@
 ==============
 Numpy tutorial
+Numpy 指南
 ==============
 
 ------------------
-Nicolas P. Rougier
+作者：Nicolas P. Rougier 译者：Jooeys
 ------------------
 
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.28817.svg
